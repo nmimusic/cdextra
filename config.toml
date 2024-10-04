@@ -1,8 +1,8 @@
-baseURL = "https://example.com"
+baseURL = "https://nmimusic.github.io/cdextra/"
 languageCode = "ja-jp"
 title = "CDエクストラのご案内"
 theme = "xmin"
-copyright = "Copyright (C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved."
+copyright = "Copyright (C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved. Powered by [Hugo](https://gohugo.io/) & [xmin theme](https://github.com/yihui/hugo-xmin)."
 favicon = ""
 
 # Main menu which appears below site header.
