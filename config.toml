@@ -2,7 +2,6 @@ baseURL = "https://nmimusic.github.io/cdextra/"
 languageCode = "ja-jp"
 title = "CDエクストラのご案内"
 theme = "xmin"
-copyright = "Copyright (C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved. Powered by [Hugo](https://gohugo.io/) & [xmin theme](https://github.com/yihui/hugo-xmin)."
 favicon = ""
 
 # Main menu which appears below site header.
@@ -35,5 +34,5 @@ weight = 5
 [params]
 # Home page settings
 description = "CDエクストラは、音楽データとコンピュータ・データが1枚に同居した、不思議なディスクです。勿論、従来のCDプレイヤーで再生できますが、パソコンでは加えて追加のデータを楽しむ事ができます。"
-footer = "Copyright (C) 2024 Nakamura Musical Industries Dojin Club"
+footer = "Copyright (C) 2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved. Powered by [Hugo](https://gohugo.io/) & [xmin theme](https://github.com/yihui/hugo-xmin)."
 
