@@ -37,6 +37,10 @@ sudo pacman -S cdrtools
 brew install cdrtools
 ```
 
+## Windows (APT-Cyg)を使用
+```bash
+apt-cyg install cdrecord mkisofs
+```
 ----
 
 # 音楽セッションを焼く
@@ -117,6 +121,8 @@ dir2/bar.mp4=/path/to/bar.mp4
 readme.txt=/path/to/readme.txt
 ```
 
+----
+
 # エクストラセッションを焼く
 ISOができたので、CD-Rに焼いてみよう。
 
@@ -126,8 +132,12 @@ cdrecord gracetime=5 dev=0,0,0 -tao /path/to/image.iso
 
 「gracetime=5」と「dev=0,0,0」は、先程と同じだ。「-tao」はトラック・アット・ワンス(TAO)で焼く。
 
+----
+
 # ディスクの検査
 ディスクは焼けたが、作業はまだ終わらない。最後にするべき事は、CDプレイヤーでの再生とパソコンでのデータ読み取りだ。
+
+----
 
 # 完成
 おめでとう、そしてお疲れ様。
