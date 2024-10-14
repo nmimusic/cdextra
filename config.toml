@@ -21,15 +21,9 @@ url = "/faq"
 weight = 3
 
 [[menu.main]]
-name = "焼いてみよう"
-url = "/burn"
-weight = 4
-
-[[menu.main]]
 name = "NMI OFFICIAL"
 url = "https://nmimusic.github.io/"
-weight = 5
-
+weight = 4
 
 [params]
 # Home page settings
