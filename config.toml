@@ -21,6 +21,11 @@ url = "/faq"
 weight = 3
 
 [[menu.main]]
+name = "焼いてみよう"
+url = "/burn"
+weight = 3
+
+[[menu.main]]
 name = "NMI OFFICIAL"
 url = "https://nmimusic.github.io/"
 weight = 4
