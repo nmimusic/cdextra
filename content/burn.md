@@ -32,7 +32,7 @@ dsf/track02.dsf
 
 なお、K3bはCD-DAやEXTRAの他、デジタルデータを記録するCD-ROM(XA含む)、MPEGビデオを記録するビデオCD(CD-DV 1.0/2.0)、スーパービデオCD(CD-SV)などの作成もできる。
 
-## オーディオトラックを焼く
+## オーディオセッションを焼く
 まず上のタブから「Audio CD」(オーディオCD)を選び、WAVファイルを放り込む。
 
 {{< figure src="/cdextra/img/burn/cdrtfe-1.png" alt="audio" position="center">}}
@@ -55,7 +55,7 @@ CDテキストを埋め込みたい場合は、「Write CD text」(CDテキス�
 
 **ここで上部のメニューから「Project」(プロジェクト)→「Clear all」(すべてクリア)を押して、オーディオセッションの情報を削除しなければならない。こうしないと第2セッションがミックスモード仕様になってしまう。**
 
-## エクストラトラックを焼く
+## エクストラセッションを焼く
 さて次はお待ちかね(？)、エクストラトラックの焼き込みだ。まず「Data Disc」(データディスク)タブを開き、おまけファイルを放り込む。
 
 {{< figure src="/cdextra/img/burn/cdrtfe-4.png" alt="audio" position="center">}}
@@ -81,7 +81,7 @@ CDテキストを埋め込みたい場合は、「Write CD text」(CDテキス�
 なお、K3bはCD-DAやEXTRAの他、デジタルデータを記録するCD-ROM(XA含む)、MPEGビデオを記録するビデオCD(CD-DV 1.0/2.0/SV)、スーパービデオCD(CD-SV)などの作成もできる。
 
 ## ファイルの追加
-「新しいプロジェクト」から「新しいミックスモードCDプロジェクト」すると画面下部にタブが開くので、「オーディオセクション」(ここがオーディオトラックになる)にWAV、「K3b data project」(ここがエクストラトラックになる)におまけデータを放り込む。CDテキストを埋め込みたい場合は、この時点で編集しておくのが良い。
+「新しいプロジェクト」から「新しいミックスモードCDプロジェクト」すると画面下部にタブが開くので、「オーディオセクション」(ここがオーディオセッションになる)にWAV、「K3b data project」(ここがエクストラセッションになる)におまけデータを放り込む。CDテキストを埋め込みたい場合は、この時点で編集しておくのが良い。
 
 {{< figure src="/cdextra/img/burn/k3b-1.png" alt="audio" position="center">}}
 {{< figure src="/cdextra/img/burn/k3b-2.png" alt="audio" position="center">}}
