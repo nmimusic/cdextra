@@ -1,10 +1,8 @@
 ---
-title: "麻浪迅「月影」(NRCZ-1)"
+title: "麻浪迅「DEMO 2024 DEC」(NRCZ-1)"
 date: 2024-12-16T00:00:00+09:00
 draft: false
 ---
-
-# 麻浪迅「DEMO 2024 DEC」
 
 - NRCZ-1 ￥1,100(税込み)
 - **収録データ**
