@@ -1,5 +1,5 @@
 ---
-title: "麻浪迅「月影」(NRCH-1)"
+title: "麻浪迅「月影」(NRCZ-1)"
 date: 2024-12-16T00:00:00+09:00
 draft: false
 ---
@@ -11,7 +11,7 @@ draft: false
     - ライナーノーツ(TXT)
     - 全曲分ハイレゾデータ(FLAC 48kHz/24bit Lv.8)
     - 「9ineverse非公式オンリーイベント オンラインオフ会」サークルカット、フライヤー(PNG)
-- 2024年12月21日発売
+- 2024年12月21日発売予定
 - [体験版(サウンドクラウド)](https://soundcloud.com/hayatehay/demo-2024-dec-crossfade-demo)
 - 購入
 	- [NMI MUSIC STORE](https://nmimusic.booth.pm/items/6371255/)
